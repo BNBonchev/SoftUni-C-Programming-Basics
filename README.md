@@ -1,2 +1,2 @@
-# SoftUni-C-Programming-Basics
-C# Progranning Basics Problems Solutions
+# SoftUni-Programming-Basics
+C# Programming Basics Problems Solutions
